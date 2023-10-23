@@ -11,7 +11,7 @@
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^4.4.9",
-    "@types/p5": "^1.7.0"
+    "@types/p5": "^1.7.1"
   },
   "dependencies": {
     "p5": "^1.7.0"
